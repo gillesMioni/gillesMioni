@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @gillesMioni
 - 👀 I’m interested in digital literacy, arts and literature.
-- 🌱 I’m currently improving my skills in network admin, cloud services with Nextcloud and always leaurning digital literacy.
+- 🌱 I’m currently improving my skills in network admin, cloud services with Nextcloud and always learning digital literacy.
 
 
 <!---
